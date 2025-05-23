@@ -18,16 +18,16 @@ source-code: https://github.com/marcosvdotcom/collection_builder_csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Chicana por mi Raza Digital Memory Collective
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Preserving Memories of Chicana Feminisms
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Chicana por mi Raza collects histories of Chicanx feminism activism."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: chicana; bipoc; feminisms; history;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Chicana por mi Raza Digital Memory Collective
 
 ##########
 # COLLECTION SETTINGS
@@ -51,10 +51,10 @@ metadata: cpmr_records
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Chicana por mi Raza Digital Memory Collective"
+organization-link: https://chicanapormiraza.org
+organization-logo-banner: https://chicanapormiraza.org/sites/default/files/cpmrlogolong_1_0_0.jpg
+organization-logo-nav: https://chicanapormiraza.org/sites/default/files/cpmrlogolong_1_0_0.jpg
 
 ##########
 # ROBOTS EXCLUDE
